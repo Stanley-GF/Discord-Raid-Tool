@@ -12,7 +12,7 @@
 * Create Mass Voice Channel
 * Delete All Text Channel
 * Delete All Voice Channel
-* DMall
+* DM all
 * Custom Bot Playing
 * Create mass role
-* Delete Mass Role
+* Delete all Role
