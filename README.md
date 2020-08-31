@@ -3,6 +3,9 @@
 
 ![Markdown Here logo](https://media.giphy.com/media/TKdK02I96LwawPEQSw/giphy.gif) 
 
+
+# ![Direct Download](https://github.com/Stanley-GF/Discord-Raid-Tool/releases/download/2.0.0/StanRaider.V2.exe)
+
 # Features 
 
 * Guild Info
