@@ -1,6 +1,8 @@
 # Stan Raider V2 ![Markdown Here logo](https://cdn.discordapp.com/attachments/698652175882125405/726843684083204156/T-3Fo_stan-ConvertImage.png) 
 (Windows Form) StanRaider V2 allow you to raid discord server with different features ! 
 
+![Markdown Here logo](https://media.discordapp.net/attachments/749673761028046879/750014222791868436/unknown.png) 
+
 # Features 
 
 * Guild Info
