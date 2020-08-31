@@ -6,6 +6,8 @@
 
 # [Direct Download](https://github.com/Stanley-GF/Discord-Raid-Tool/releases/download/2.0.0/StanRaider.V2.exe)<br>
 
+# [Tutorial](https://cracked.to/Thread-Discord-Raid-Tool-V2)
+
 # Features 
 
 * Guild Info
